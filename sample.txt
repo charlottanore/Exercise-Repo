@@ -1,7 +1,5 @@
 Charloot Line
 Rosalie Line
-<<<<<<< HEAD
 Rosales Line
-=======
 Chrislyn Line
->>>>>>> f4702ca559c6d5924135dabaa38118597f5ff9d1
+Ambot nlng 
